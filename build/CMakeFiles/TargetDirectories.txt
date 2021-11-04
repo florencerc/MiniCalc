@@ -1,0 +1,4 @@
+C:/Users/Particular/Desktop/MiniCalc/build/CMakeFiles/minicalc.dir
+C:/Users/Particular/Desktop/MiniCalc/build/CMakeFiles/lexertest.dir
+C:/Users/Particular/Desktop/MiniCalc/build/CMakeFiles/edit_cache.dir
+C:/Users/Particular/Desktop/MiniCalc/build/CMakeFiles/rebuild_cache.dir
